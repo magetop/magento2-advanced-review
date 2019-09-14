@@ -1,4 +1,4 @@
-# Magento 2 Multi Vendor Marketplace by MageTop
+# Magento 2 Advanced Review Extension by MageTop
 
 **Magento 2 Advanced Review Extension** by Magetop allows your customers to rate and review your products right on your eCommerce website. You can encourage them to share their opinion with a simple comment-like option. Allow them to upload files/video to better explain their stance. You can reply to customer reviews, and manage them for better readability and avoid spam. Configuration settings include customizing the customer reviews block and other useful options.
 
