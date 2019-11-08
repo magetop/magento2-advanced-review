@@ -18,8 +18,8 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-advanced-review-extension.html
-- Frontend Demo : https://magento2.demo.magetop.com/demo-full/
-- Backend demo : https://magento2.demo.magetop.com/demo-full/admin/
+- Frontend Demo : https://magento2.demo.magetop.com/demo-full
+- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
 
