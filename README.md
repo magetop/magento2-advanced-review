@@ -18,7 +18,7 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-advanced-review-extension.html
-- Frontend demo : https://demo.magetop.com/demo-full
+- Frontend demo : https://demo.magetop.com/demo-full/hero-hoodie.html#reviews
 - Backend demo : https://demo.magetop.com/demo-full/admin
 
 ## Support & contact info
